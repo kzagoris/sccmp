@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Modul 1: Žurnalistika založená na dronu",
+    "file": "cs/module1.pdf",
+    "presentation": "en/module1_presentation.pdf",
+    "image": "en/module1.webp",
+    "description": "Používání dronů pro sběr informací v žurnalistickém průmyslu je stále nové. V minulosti novináři pořizovali letecké záběry s vrtulníky, které často pronajímali a měly vyšší výrobní náklady. Technologie dronů umožňuje novinářům pořizovat záběry z novinářských událostí, jako jsou sopečné erupce, vesnice zničené válkou a přírodní katastrofy. Protože drony jsou ovládány na dálku, novináři je považují za bezpečnější a nákladově efektivní prostředek pro videozáznam, zejména v oblastech s vysokou zranitelností."
+  },
+  {
+    "title": "Modul 2: Pravidla a předpisy",
+    "file": "cs/module2.pdf",
+    "presentation": "en/module2_presentation.pdf",
+    "image": "en/module2.webp",
+    "description": "Používání dronů je primárně regulováno civilním leteckým úřadem (CAA) každé země, ačkoli může být nutné získat povolení od dalších vládních agentur nebo oddělení. Jelikož každá NAA stanovuje vlastní předpisy pro drony, mohou se výrazně lišit od jedné země k druhé, což představuje problém pro novináře nebo mediální organizace, které chtějí používat drony ve více než jedné zemi. V některých částech Afriky a Asie jsou zákony týkající se dronů zbytečně restriktivní, nákladné a neprůhledné."
+  },
+  {
+    "title": "Modul 3: Dovednosti a kariéra",
+    "file": "cs/module3.pdf",
+    "presentation": "en/module3_presentation.pdf",
+    "image": "en/module3.webp",
+    "description": "Pilot dronu je odpovědný za řízení dronu nebo bezpilotního létajícího prostředku (UAV). Drony jsou vybaveny kamerami a dalšími senzory a používají se pro různé účely, jako je fotografování drony, průzkum a mapování. Jako pilot dronu musíte být obeznámeni s různými ovládacími prvky dronu, abyste je mohli účinně ovládat. Musíte také znát předpisy týkající se používání dronů ve vaší oblasti, stejně jako bezpečnostní postupy, které je třeba dodržovat, aby se předešlo nehodám. Pokud máte zájem o kariéru jako operátor dronu, nebo pokud si prostě chcete vydělat trochu dalších peněz s vaším dronem o víkendech, prvním krokem je získání certifikace části 107 vydané Federální leteckou správou (FAA). Měli byste také zvážit formální výcvik v letecké fotografii, videografii a/nebo mapování. Jakmile získáte potřebné dovednosti, můžete začít hledat práci s UAV ve vaší oblasti."
+  },
+  {
+    "title": "Modul 4: Technická laboratoř a letecký workshop",
+    "file": "cs/module4.pdf",
+    "presentation": "en/module4_presentation.pdf",
+    "image": "en/module4.webp",
+    "description": "Laboratoř bezpilotních leteckých systémů (dron) se zaměřuje na návrh, inženýrství a implementaci multimodálních zobrazovacích systémů, kalibračních technik a zpracovávacích algoritmů, aby poskytovala data nejvyšší kvality pro řešení problémů v oblastech přesného zemědělství, inspekce infrastruktury. Drony mohou být vybaveny senzory, včetně ultrazvukových, laserových nebo lidarových dálkoměrů, senzorů času letu, chemických senzorů a senzorů stabilizace a orientace. Vizuální senzory nabízejí stále a video data."
+  },
+  {
+    "title": "Modul 5: Pilotní reportáž",
+    "file": "cs/module5.pdf",
+    "presentation": "en/module5_presentation.pdf",
+    "image": "en/module5.webp",
+    "description": "Reportáž s dronem vychází z inspirace, vidět a zkoumat krásu kolem nás, kterou často ignorujeme z odlišného a komplexního pohledu, jako je ten, který může nabídnout pouze dron. Reportáž s dronem je specializována na vytváření unikátních obrazů, ve všech aplikacích, ve kterých lze leteckou fotografii rozvíjet."
+  }
+]

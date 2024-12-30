@@ -1,0 +1,116 @@
+{
+    "login": {
+        "signInAccount": "Přihlaste se ke svému účtu",
+        "Email address": "Emailová adresa",
+        "Password": "Heslo",
+        "You don't have an account?": "Nemáte účet?",
+        "Email is required": "Email je povinný",
+        "Password must be at least 6 characters": "Heslo musí mít alespoň 6 znaků",
+        "Needs a valid email address": "Je vyžadována platná emailová adresa",
+        "Password is required": "Heslo je povinné",
+        "Logout": "Odhlásit se",
+        "Forgot your password?": "Zapomněli jste heslo?",
+        "Reset it": "Resetujte ho",
+        "Sign Up!": "Zaregistrujte se!",
+        "Sign In!": "Přihlaste se!",
+        "Reset password": "Resetovat heslo",
+        "Reset your password": "Resetujte své heslo",
+        "Remember your password?": "Pamatujete si své heslo?",
+        "Password reset email sent": "Email pro resetování hesla byl odeslán, pokud adresa existuje. Zkontrolujte svůj e-mail!",
+        "Create an account": "Vytvořte si účet",
+        "Verify Password": "Ověřte heslo",
+        "Create account": "Vytvořte účet",
+        "Already have an account?": "Už máte účet?",
+        "Set your password": "Nastavte své heslo",
+        "Password verification is required": "Je vyžadováno ověření hesla",
+        "Passwords do must match": "Hesla se musí shodovat"
+    },
+    "menuDescriptions": {
+        "modules": "Moduly zahrnují nové dovednosti a znalosti o technologii dronů, zdroje, materiály, výukové metody a hodnocení. Pět výukových modulů je specifických pro návrh studijních programů."
+    },
+    "menu": {
+      "Home": "Domů",
+      "Description": "Popis",
+      "Modules": "Moduly",
+      "Courses Materials": "Studijní materiály",
+      "Handbook": "Příručka",
+      "Find out more": "Zjistěte více",
+      "Success Stories": "Příběhy úspěchu",
+      "Check it out": "Podívejte se na to",
+      "Website": "Webové stránky",
+      "Sustainable Brands": "Udržitelné značky"
+    },
+    "footer": {
+        "Keep up to date with the latest news from": "Buďte v obraze s nejnovějšími zprávami od",
+        "Sign up to our Newsletter": "Přihlaste se k odběru našeho zpravodaje",
+        "Email address": "Emailová adresa",
+        "This project has been funded with support from the European Commission": "Tento projekt byl financován za podpory Evropské komise",
+        "This website reflects the views only of the author, and the Commission cannot be held responsible for any  use which may be made of the information contained herein": "Tato webová stránka odráží pouze názory autora a Komise nemůže být držena odpovědná za jakékoli využití informací zde obsažených",
+        "Subscribe": "Přihlásit se",
+        "Follow Us": "Sledujte nás",
+        "Enter your email": "Zadejte svůj e-mail"
+    },
+    "profile": {
+        "account": "Účet",
+        "profile": "Profil",
+        "noVerifyEmailMessage": "Vaše e-mailová adresa nebyla ověřena. Zkontrolujte si prosím doručenou poštu, zda vám nepřišel ověřovací e-mail",
+        "shareInfoWarning": "Tyto informace budou zobrazeny veřejně, proto si dávejte pozor na to, co sdílíte",
+        "firstName": "Křestní jméno",
+        "lastName": "Příjmení",
+        "photo": "Fotografie",
+        "remove": "Odstranit",
+        "description": "Popis",
+        "userPhoto": "Fotografie uživatele",
+        "profileDescription": "Stručný popis vašeho profilu",
+        "personalInfo": "Osobní informace",
+        "emailAddress": "E-mailová adresa",
+        "age": "Věk",
+        "displayLang": "Zobrazovaný jazyk",
+        "add": "Přidat",
+        "change": "Změnit",
+        "update": "Aktualizovat",
+        "create": "Vytvořit",
+        "lastUpdated": "Tento účet byl naposledy aktualizován dne"
+    },
+    "trainingModules": {
+        "trainingModules": "Školící moduly",
+        "Download" : "Stáhnout",
+        "Presentation" : "Prezentace"
+    },
+    "successStories": {
+        "Success Stories": "Příběhy úspěchu",
+        "Cyprus": "Kypr",
+        "Spain": "Španělsko",
+        "Italy": "Itálie",
+        "France": "Francie",
+        "Czech": "Česká republika",
+        "All countries": "Všechny země",
+        "Filter by Country": "Filtrovat podle země"
+    },
+    "additionalResources": {
+        "additionalResources": "Další zdroje",
+        "files": {
+            "name": "Soubory",
+            "description": "Průvodci udržitelnou módou, online hry, které jsou informativní a zábavné, seznamy webových stránek s udržitelnými značkami a mnohem více!",
+            "download": "Stáhnout"
+        },
+        "videos": {
+            "name": "Videa",
+            "description": "Dokumentární filmy, rozhovory a video průvodci udržitelnou módou: informativní a zábavné!"
+        },
+        "articles": {
+            "name": "Články",
+            "readMore": "Přečtěte si více",
+            "description": "Spolehlivé online publikované materiály: rozhovory, debaty, faktické zdroje: být intelektuálem je nová móda!"
+        },
+        "various": {
+            "name": "Různé",
+            "readMore": "Přečtěte si více",
+            "description": ""
+        }
+    },
+    "sustainableBrands": {
+        "Sustainable Brands": "Udržitelné značky",
+        "subTitle": "Promyšleně navržené značky pro pracovní prostředí, domov a cestování."
+    }
+}

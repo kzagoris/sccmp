@@ -1,0 +1,129 @@
+{
+  "login": {
+    "signInAccount": "Sign in to your account",
+    "Email address": "Email address",
+    "Password": "Password",
+    "You do not have an account?": "You don't have an account?",
+    "Email is required": "Email is required",
+    "Password must be at least 6 characters": "Password must be at least 6 characters",
+    "Needs a valid email address": "Needs a valid email address",
+    "Password is required": "Password is required",
+    "Logout": "Logout",
+    "Forgot your password?": "Forgot your password?",
+    "Reset it": "Reset it",
+    "Sign Up!": "Sign Up!",
+    "Sign In!": "Sign In!",
+    "Reset password": "Reset password",
+    "Reset your password": "Reset your password",
+    "Remember your password?": "Remember your password?",
+    "Password reset email sent": "Password reset email sent if email exists. Check your inbox!",
+    "Create an account": "Create an account",
+    "Verify Password": "Verify Password",
+    "Create account": "Create account",
+    "Already have an account?": "Already have an account?",
+    "Set your password": "Set your password",
+    "Password verification is required": "Password verification is required",
+    "Passwords do must match": "Passwords do must match"
+  },
+  "home": {
+    "intro": {
+      "title": "Welcome to Incubator",
+      "description-1": "The Incubator is an interactive tool to facilitate access to training and provide technical assistance for young people (18 – 30 years old), who lack knowledge and skills related to DRONE Technology.",
+      "description-2": "The Incubator gives access to young people who wish to acquire new skills and competences in order to establish and/or improve the use of DRONES in their work environments and professional careers. The DRONE Incubator helps the target group aspiring to become acquire the necessary skills, providing information, training and technical assistance in one location.",
+      "description-3": "This tool provides information which are sought by young people who want to pursue a career or start a new           business with the use of DRONES, which results in improving and expanding the technology careers, drone journalism, filming, video clips, reportage and raising awareness about tools available for modernising the sector and in this way contributing to tackling challenges."
+    },
+    "Incubator: Choose your language": "Incubator: Choose your language"
+  },
+  "menuDescriptions": {
+    "modules": "The Modules include the new skills and competences of drone technology, resources, materials, training methods and evaluation.  The five Training Modules are specific modules concern the design of the Curricula."
+  },
+  "menu": {
+    "Home": "Home",
+    "Description": "Description",
+    "Modules": "Modules",
+    "Courses Materials": "Course Materials",
+    "Handbook": "Handbook",
+    "Find out more": "Find out more",
+    "Success Stories": "Success Stories",
+    "Check it out": "Check it out",
+    "Website": "Website",
+    "Sustainable Brands": "Sustainable Brands"
+  },
+  "footer": {
+    "Keep up to date with the latest news from": "Keep up to date with the latest news from",
+    "Sign up to our Newsletter": "Sign up to our Newsletter",
+    "Email address": "Email address",
+    "This project has been funded with support from the European Commission": "This project has been funded with support from the European Commission",
+    "This website reflects the views only of the author, and the Commission cannot be held responsible for any  use which may be made of the information contained herein": "This website reflects the views only of the author, and the Commission cannot be held responsible for any  use which may be made of the information contained herein",
+    "Subscribe": "Subscribe",
+    "Follow Us": "Follow Us",
+    "Enter your email": "Enter your email"
+  },
+  "profile": {
+    "account": "Account",
+    "profile": "Profile",
+    "noVerifyEmailMessage": "Your email address has not been verified. Please check your inbox for a verification email",
+    "shareInfoWarning": "This information will be displayed publicly so be careful what you share",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "photo": "Photo",
+    "remove": "Remove",
+    "description": "Description",
+    "userPhoto": "User photo",
+    "profileDescription": "Brief description for your profile",
+    "personalInfo": "Personal information",
+    "emailAddress": "Email address",
+    "age": "Age",
+    "displayLang": "Display Language",
+    "add": "Add",
+    "change": "Change",
+    "update": "Update",
+    "create": "Create",
+    "lastUpdated": "This account was last updated on"
+  },
+  "trainingModules": {
+    "trainingModules": "Training Modules",
+    "Download": "Curriculum",
+    "Presentation": "Presentations",
+    "Quizzes": "Quizzes"
+  },
+  "successStories": {
+    "Success Stories": "Success Stories",
+    "Cyprus": "Cyprus",
+    "Spain": "Spain",
+    "Italy": "Italy",
+    "France": "France",
+    "Czech": "Czech Republic",
+    "All countries": "All countries",
+    "Filter by Country": "Filter by Country"
+  },
+  "additionalResources": {
+    "additionalResources": "Other Resources",
+    "files": {
+      "name": "Files",
+      "description": "Guides on sustainable fashion, online games which are informative and fun, lists of websites on sustainable brands and so much more!",
+      "download": "Download"
+    },
+    "videos": {
+      "name": "Videos",
+      "description": "Documentaries, interviews, and sustainable fashion video guides: informative and fun!"
+    },
+    "articles": {
+      "name": "Articles",
+      "readMore": "Read more",
+      "description": "Reliable published online materials: interviews, debates, factual resources: nerdy is the new cool!"
+    },
+    "various": {
+      "name": "Various",
+      "readMore": "Read more",
+      "description": ""
+    }
+  },
+  "handbook": {
+    "handbook": "Handbook"
+  },
+  "sustainableBrands": {
+    "Sustainable Brands": "Sustainable Brands",
+    "subTitle": "Thoughtfully designed brands for the workspace, home, and travel."
+  }
+}

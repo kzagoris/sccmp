@@ -1,0 +1,119 @@
+{
+  "login": {
+    "signInAccount": "Inicia sesión en tu cuenta",
+    "Email address": "Dirección de correo electrónico",
+    "Password": "Contraseña",
+    "You do not have an account?": "¿No tienes una cuenta?",
+    "Email is required": "Se requiere correo electrónico",
+    "Password must be at least 6 characters": "La contraseña debe tener al menos 6 caracteres",
+    "Needs a valid email address": "Se necesita una dirección de correo electrónico válida",
+    "Password is required": "Se requiere contraseña",
+    "Logout": "Cerrar sesión",
+    "Forgot your password?": "¿Olvidaste tu contraseña?",
+    "Reset it": "Restablecerla",
+    "Sign Up!": "¡Regístrate!",
+    "Sign In!": "¡Iniciar sesión!",
+    "Reset password": "Restablecer contraseña",
+    "Reset your password": "Restablece tu contraseña",
+    "Remember your password?": "¿Recuerdas tu contraseña?",
+    "Password reset email sent": "Correo electrónico de restablecimiento de contraseña enviado si el correo existe. ¡Revisa tu bandeja de entrada!",
+    "Create an account": "Crear una cuenta",
+    "Verify Password": "Verificar contraseña",
+    "Create account": "Crear cuenta",
+    "Already have an account?": "¿Ya tienes una cuenta?",
+    "Set your password": "Establece tu contraseña",
+    "Password verification is required": "Se requiere verificación de contraseña",
+    "Passwords do must match": "Las contraseñas deben coincidir"
+  },
+  "home": {
+    "Incubator: Choose your language": "Incubator: Choose your language"
+  },
+  "menuDescriptions": {
+    "modules": "Los módulos incluyen las nuevas habilidades y competencias de la tecnología de drones, recursos, materiales, métodos de formación y evaluación. Los cinco módulos de formación son módulos específicos relacionados con el diseño de los programas de estudio."
+  },
+  "menu": {
+    "Home": "Inicio",
+    "Description": "Descripción",
+    "Modules": "Módulos",
+    "Courses Materials": "Materiales del curso",
+    "Handbook": "Manual",
+    "Find out more": "Descubre más",
+    "Success Stories": "Historias de éxito",
+    "Check it out": "Echa un vistazo",
+    "Website": "Sitio web",
+    "Sustainable Brands": "Marcas sostenibles"
+  },
+  "footer": {
+    "Keep up to date with the latest news from": "Mantente al día con las últimas noticias de",
+    "Sign up to our Newsletter": "Suscríbete a nuestro boletín",
+    "Email address": "Dirección de correo electrónico",
+    "This project has been funded with support from the European Commission": "Este proyecto ha sido financiado con el apoyo de la Comisión Europea",
+    "This website reflects the views only of the author, and the Commission cannot be held responsible for any  use which may be made of the information contained herein": "Este sitio web refleja únicamente las opiniones del autor y la Comisión no puede ser considerada responsable de cualquier uso que se pueda hacer de la información aquí contenida",
+    "Subscribe": "Suscribirse",
+    "Follow Us": "Síguenos",
+    "Enter your email": "Introduce tu correo electrónico"
+  },
+  "profile": {
+    "account": "Cuenta",
+    "profile": "Perfil",
+    "noVerifyEmailMessage": "Tu dirección de correo electrónico no ha sido verificada. Por favor, revisa tu bandeja de entrada para un correo de verificación",
+    "shareInfoWarning": "Esta información se mostrará públicamente, así que ten cuidado con lo que compartes",
+    "firstName": "Nombre",
+    "lastName": "Apellidos",
+    "photo": "Foto",
+    "remove": "Eliminar",
+    "description": "Descripción",
+    "userPhoto": "Foto del usuario",
+    "profileDescription": "Breve descripción de tu perfil",
+    "personalInfo": "Información personal",
+    "emailAddress": "Dirección de correo electrónico",
+    "age": "Edad",
+    "displayLang": "Idioma de visualización",
+    "add": "Añadir",
+    "change": "Cambiar",
+    "update": "Actualizar",
+    "create": "Crear",
+    "lastUpdated": "Esta cuenta fue actualizada por última vez el"
+  },
+  "trainingModules": {
+    "trainingModules": "Módulos de formación",
+    "Download": "Descargar",
+    "Presentation": "Presentación"
+  },
+  "successStories": {
+    "Success Stories": "Historias de éxito",
+    "Cyprus": "Chipre",
+    "Spain": "España",
+    "Italy": "Italia",
+    "France": "Francia",
+    "Czech": "República Checa",
+    "All countries": "Todos los países",
+    "Filter by Country": "Filtrar por país"
+  },
+  "additionalResources": {
+    "additionalResources": "Recursos adicionales",
+    "files": {
+      "name": "Archivos",
+      "description": "Guías sobre moda sostenible, juegos en línea que son informativos y divertidos, listas de sitios web sobre marcas sostenibles y mucho más!",
+      "download": "Descargar"
+    },
+    "videos": {
+      "name": "Videos",
+      "description": "Documentales, entrevistas y guías en video sobre moda sostenible: ¡informativos y divertidos!"
+    },
+    "articles": {
+      "name": "Artículos",
+      "readMore": "Leer más",
+      "description": "Materiales confiables publicados en línea: entrevistas, debates, recursos fácticos: ¡ser nerd es lo nuevo!"
+    },
+    "various": {
+      "name": "Varios",
+      "readMore": "Leer más",
+      "description": ""
+    }
+  },
+  "sustainableBrands": {
+    "Sustainable Brands": "Marcas sostenibles",
+    "subTitle": "Marcas diseñadas cuidadosamente para el espacio de trabajo, el hogar y los viajes."
+  }
+}

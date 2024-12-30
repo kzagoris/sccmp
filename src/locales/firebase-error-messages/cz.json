@@ -1,0 +1,11 @@
+{
+    "auth/email-already-in-use": "Email již používán",
+    "auth/invalid-email": "Neplatný email",
+    "auth/operation-not-allowed": "Operace není povolena",
+    "auth/weak-password": "Příliš slabé heslo",
+    "auth/wrong-password": "Špatné heslo",
+    "auth/user-not-found": "Uživatel nenalezen",
+    "auth/user-disabled": "Uživatel je deaktivován",
+    "auth/invalid-credential": "Neplatné přihlašovací údaje",
+    "auth/invalid-verification-code": "Neplatný ověřovací kód"
+}

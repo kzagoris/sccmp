@@ -1,0 +1,126 @@
+{
+  "login": {
+    "signInAccount": "Connectez-vous à votre compte",
+    "Email address": "Adresse e-mail",
+    "Password": "Mot de passe",
+    "You do not have an account?": "Vous n'avez pas de compte ?",
+    "Email is required": "L'email est requis",
+    "Password must be at least 6 characters": "Le mot de passe doit comporter au moins 6 caractères",
+    "Needs a valid email address": "Nécessite une adresse e-mail valide",
+    "Password is required": "Le mot de passe est requis",
+    "Logout": "Déconnexion",
+    "Forgot your password?": "Mot de passe oublié ?",
+    "Reset it": "Réinitialisez-le",
+    "Sign Up!": "Inscrivez-vous !",
+    "Sign In!": "Connectez-vous !",
+    "Reset password": "Réinitialiser le mot de passe",
+    "Reset your password": "Réinitialisez votre mot de passe",
+    "Remember your password?": "Vous vous souvenez de votre mot de passe ?",
+    "Password reset email sent": "Email de réinitialisation du mot de passe envoyé si l'email existe. Vérifiez votre boîte de réception !",
+    "Create an account": "Créer un compte",
+    "Verify Password": "Vérifiez le mot de passe",
+    "Create account": "Créer un compte",
+    "Already have an account?": "Vous avez déjà un compte ?",
+    "Set your password": "Définissez votre mot de passe",
+    "Password verification is required": "La vérification du mot de passe est requise",
+    "Passwords do must match": "Les mots de passe doivent correspondre"
+  },
+  "home": {
+    "intro": {
+      "title": "Bienvenue sur l'Incubateur",
+      "description-1": "L'Incubateur est un outil interactif destiné à faciliter l'accès à la formation et offrir une assistance technique aux jeunes (18 - 30 ans) qui manquent de connaissances et de compétences dans le domaine des drones.",
+      "description-2": "L'Incubateur encourage les jeunes souhaitant acquérir de nouvelles aptitudes et compétences pour améliorer leur utilisation des drones au travail et dans leur carrière professionnelle en fournissant des informations, une formation et une assistance technique.",
+      "description-3": "La plateforme fournit des ressources pour aider les jeunes dans leur poursuite de carrière ou pour démarrer une nouvelle entreprise qui nécessite un usage du drone et leur permet d'améliorer et d'étendre les carrières technologiques, le journalisme par drone, les tournages, les clips vidéo, les reportages et la sensibilisation aux outils disponibles pour moderniser le secteur et contribuer ainsi à relever les défis."
+    },
+    "Incubator: Choose your language": "Incubateur : choisissez votre langue "
+  },
+  "menuDescriptions": {
+    "modules": "Les modules comprennent les nouvelles compétences et connaissances de la technologie des drones, les ressources, les matériaux, les méthodes de formation et d'évaluation. Les cinq modules de formation sont des modules spécifiques concernant la conception des programmes d'études."
+  },
+  "menu": {
+    "Home": "Accueil",
+    "Description": "Description",
+    "Modules": "Modules",
+    "Courses Materials": "Matériaux de cours",
+    "Handbook": "Manuel",
+    "Find out more": "En savoir plus",
+    "Success Stories": "Histoires de succès",
+    "Check it out": "Découvrez-le",
+    "Website": "Site web",
+    "Sustainable Brands": "Marques durables"
+  },
+  "footer": {
+    "Keep up to date with the latest news from": "Restez informé des dernières nouvelles de",
+    "Sign up to our Newsletter": "Inscrivez-vous à notre newsletter",
+    "Email address": "Adresse e-mail",
+    "This project has been funded with support from the European Commission": "Ce projet a été financé avec le soutien de la Commission européenne",
+    "This website reflects the views only of the author, and the Commission cannot be held responsible for any  use which may be made of the information contained herein": "Ce site web reflète uniquement les opinions de l'auteur et la Commission ne peut être tenue responsable de toute utilisation qui pourrait être faite des informations contenues ici",
+    "Subscribe": "S'inscrire",
+    "Follow Us": "Suivez-nous",
+    "Enter your email": "Entrez votre email"
+  },
+  "profile": {
+    "account": "Compte",
+    "profile": "Profil",
+    "noVerifyEmailMessage": "Votre adresse e-mail n'a pas été vérifiée. Veuillez vérifier votre boîte de réception pour un courriel de vérification",
+    "shareInfoWarning": "Ces informations seront affichées publiquement, soyez donc prudent avec ce que vous partagez",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "photo": "Photo",
+    "remove": "Retirer",
+    "description": "Description",
+    "userPhoto": "Photo de l'utilisateur",
+    "profileDescription": "Brève description de votre profil",
+    "personalInfo": "Informations personnelles",
+    "emailAddress": "Adresse e-mail",
+    "age": "Âge",
+    "displayLang": "Langue d'affichage",
+    "add": "Ajouter",
+    "change": "Modifier",
+    "update": "Mettre à jour",
+    "create": "Créer",
+    "lastUpdated": "Ce compte a été mis à jour pour la dernière fois le"
+  },
+  "trainingModules": {
+    "trainingModules": "Modules de formation",
+    "Download": "Programme d'étude",
+    "Presentation": "Présentation",
+    "Quizzes": "Quiz"
+  },
+  "successStories": {
+    "Success Stories": "Histoires de succès",
+    "Cyprus": "Chypre",
+    "Spain": "Espagne",
+    "Italy": "Italie",
+    "France": "France",
+    "Czech": "République tchèque",
+    "All countries": "Tous les pays",
+    "Filter by Country": "Filtrer par pays"
+  },
+  "additionalResources": {
+    "additionalResources": "Autres ressources",
+    "files": {
+      "name": "Fichiers",
+      "description": "Guides sur la mode durable, jeux en ligne informatifs et amusants, listes de sites web sur des marques durables et bien plus encore !",
+      "download": "Télécharger"
+    },
+    "videos": {
+      "name": "Vidéos",
+      "description": "Documentaires, interviews et guides vidéo sur la mode durable : informatifs et amusants !"
+    },
+    "articles": {
+      "name": "Articles",
+      "readMore": "Lire la suite",
+      "description": "Matériaux en ligne fiables et publiés : interviews, débats, ressources factuelles : être intello, c'est le nouveau cool !"
+    },
+    "various": {
+      "name": "Divers",
+      "readMore": "Lire la suite",
+      "description": ""
+    }
+  },
+  "sustainableBrands": {
+    "Sustainable Brands": "Marques durables",
+    "subTitle": "Marques soigneusement conçues pour l'espace de travail, la maison et les voyages."
+  }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Module 1 - Laissez votre empreinte dans le monde de la mode",
+        "to": "fr/module1.pdf",
+        "image": "fr/module1.webp",
+        "description": "Le <strong>module 1</strong> offre un aperçu de l'histoire de la mode durable, avec un accent particulier sur les nouvelles tendances. Composé de trois unités, ce module vous présente les différents parcours professionnels qu'offre le monde de la mode et vous fournit des conseils essentiels et pratiques pour y faire vos premiers pas. Une analyse des compétences requises pour réussir dans l'industrie de la mode est donnée ainsi que les meilleures pratiques pour une mode durable. Le module 1 regorge d'informations sur le marketing et la communication d'une marque: des vidéos, des articles et des activités sont également disponibles pour plonger complètement dans la beauté de l'industrie du monde de la mode. Un test d'auto-évaluation est également disponible pour tester vos connaissances."
+    },
+    {
+        "title": "Module 2 - La route vers le vert et la transition numérique",
+        "to": "fr/module2.pdf",
+        "image": "fr/module2.webp",
+        "description": "Le <strong>module 2</strong> renforcera vos connaissances en matière de réglementation, d'innovation et de sensibilisation et vous permettra de jeter les bases d'une industrie de la mode plus \"verte\", en vous engageant ainsi en faveur de la durabilité, de la société et de la planète. Composé de trois unités, le module 2 aborde l'impact de l'industrie de la mode sur l'environnement ainsi que l'impact de la pandémie de COVID-19. Enfin, il vous emmène à la recherche de l'innovation en décrivant de nouveaux modèles commerciaux, services et modèles de production. Des vidéos et des ressources en ligne sont intégrées dans ce module et une auto-évaluation vous attend à la toute fin."
+    },
+    {
+        "title": "Module 3 - Gestion de la mode et marketing des médias",
+        "to": "fr/module3.pdf",
+        "image": "fr/module3.webp",
+        "description": "Le <strong>module 3</strong> plonge dans les bases de la gestion de la mode et de la chaîne d'approvisionnement de la mode et vous fournit des outils qui vous aideront à développer une bonne stratégie de marketing. Composé de trois unités, le module 3 vous fournit des liens vers des ressources en ligne et un test d'auto-évaluation pour vérifier vos connaissances."
+    },
+    {
+        "title": "Module 4 – Une nouvelle approche de la perception de la qualité textile et son évaluation par des tests",
+        "to": "fr/module4.pdf",
+        "image": "fr/module4.webp",
+        "description": "Le <strong>module 4</strong> vous emmène vers de nouvelles approches de la perception de la qualité du textile et de son évaluation par des tests. Ce module offre une introduction succincte au concept de développement durable dans l'industrie du textile et de l'habillement, notamment les différents types de déchets textiles, les méthodes de recyclage des textiles et la chaîne de valeur du textile. La relation entre l'éco-conception et les normes textiles est également abordée. Riche en vidéos et en ressources pédagogiques en ligne, ce module vous permettra d'approfondir vos connaissances sur la perception de la qualité des textiles et les méthodes d'évaluation. Un test d'auto-évaluation est également disponible pour titiller vos méninges."
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "auth/email-already-in-use": "Το ηλεκτρονικό ταχυδρομείο είναι ήδη σε χρήση,",
+    "auth/invalid-email": "Μη έγκυρο email,",
+    "auth/operation-not-allowed": "Η λειτουργία δεν επιτρέπεται,",
+    "auth/weak-password": "Ο κωδικός πρόσβασης είναι πολύ αδύναμος,",
+    "auth/wrong-password": "Λάθος κωδικός πρόσβασης,",
+    "auth/user-not-found": "Ο χρήστης δεν βρέθηκε,",
+    "auth/user-disabled": "Ο χρήστης είναι απενεργοποιημένος,",
+    "auth/invalid-credential": "Μη έγκυρο διαπιστευτήριο,",
+    "auth/invalid-verification-code": "Μη έγκυρος κωδικός επαλήθευσης"
+}

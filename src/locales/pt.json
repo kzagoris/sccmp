@@ -1,0 +1,85 @@
+{
+  "login": {
+    "signInAccount": "Entre na sua conta",
+    "Email address": "Endereço de email",
+    "Password": "Senha",
+    "You don't have an account?": "Não tem uma conta?",
+    "Email is required": "Email é obrigatório",
+    "Password must be at least 6 characters": "A senha deve ter pelo menos 6 caracteres",
+    "Needs a valid email address": "É necessário um endereço de email válido",
+    "Password is required": "Senha é obrigatória",
+    "Logout": "Sair"
+  },
+  "home": {
+    "intro": {
+      "title": "Bem-vindo à Incubadora",
+      "description-1": "A Incubadora é uma ferramenta interativa para facilitar o acesso à formação e prestar assistência técnica aos jovens (18 - 30 anos), que não possuem conhecimentos e competências relacionados com a tecnologia DRONE.",
+      "description-2": "A Incubadora dá acesso a jovens que desejam adquirir novas aptidões e competências para estabelecer e/ou melhorar a utilização de DRONES nos seus ambientes de trabalho e carreiras profissionais. A Incubadora DRONE ajuda o grupo-alvo que deseja adquirir as competências necessárias, fornecendo informação, formação e assistência técnica num único local.",
+      "description-3": "Esta ferramenta fornece informações que são procuradas pelos jovens que querem seguir uma carreira ou iniciar um novo negócio com a utilização de DRONES, o que resulta na melhoria e expansão das carreiras tecnológicas, jornalismo com drones, filmagens, videoclipes, reportagens e sensibilização para as ferramentas disponíveis para modernizar o setor e, desta forma, contribuir para enfrentar os desafios."
+    },
+    "Incubator: Choose your language": "Ιncubadora: Escolha a sua língua"
+  },
+  "menu": {
+    "Home": "Início",
+    "Modules": "Módulos",
+    "Courses Materials": "Materiais do curso",
+    "Handbook": "Manual",
+    "Find out more": "Saiba mais",
+    "Success Stories": "Histórias de sucesso"
+  },
+  "footer": {
+    "Keep up to date with the latest news from": "Mantenha-se atualizado com as últimas notícias de",
+    "Sign up to our Newsletter": "Inscreva-se no nosso boletim informativo",
+    "Email address": "Endereço de email",
+    "This project has been funded with support from the European Commission": "Este projeto foi financiado com o apoio da Comissão Europeia",
+    "This website reflects the views only of the author, and the Commission cannot be held responsible for any  use which may be made of the information contained herein": "Este site reflete apenas as opiniões do autor e a Comissão não pode ser responsabilizada por qualquer uso que possa ser feito das informações aqui contidas",
+    "Subscribe": "Inscrever-se",
+    "Follow Us": "Siga-nos",
+    "Enter your email": "Digite o seu email"
+  },
+  "profile": {
+    "account": "Conta",
+    "profile": "Perfil",
+    "noVerifyEmailMessage": "Seu endereço de email não foi verificado. Por favor, verifique sua caixa de entrada para um email de verificação",
+    "shareInfoWarning": "Essas informações serão exibidas publicamente, então tenha cuidado com o que compartilha",
+    "firstName": "Nome",
+    "lastName": "Sobrenome",
+    "photo": "Foto",
+    "remove": "Remover",
+    "description": "Descrição",
+    "userPhoto": "Foto do usuário",
+    "profileDescription": "Breve descrição do seu perfil",
+    "personalInfo": "Informações pessoais",
+    "emailAddress": "Endereço de email",
+    "age": "Idade",
+    "displayLang": "Idioma de exibição",
+    "add": "Adicionar",
+    "change": "Alterar",
+    "update": "Atualizar",
+    "create": "Criar",
+    "lastUpdated": "Esta conta foi atualizada pela última vez em"
+  },
+  "trainingModules": {
+    "trainingModules": "Módulos de treinamento",
+    "Download": "Currículo",
+    "Presentation": "Apresentação",
+    "Quizzes": "Quizzes"
+  },
+  "additionalResources": {
+    "additionalResources": "Outros recursos",
+    "files": {
+      "name": "Arquivos",
+      "description": "Guias sobre moda sustentável, jogos online educativos e divertidos, listas de sites sobre marcas sustentáveis e muito mais!",
+      "download": "Baixar"
+    },
+    "videos": {
+      "name": "Vídeos",
+      "description": "Documentários, entrevistas e guias em vídeo sobre moda sustentável: informativos e divertidos!"
+    },
+    "articles": {
+      "name": "Artigos",
+      "readMore": "Leia mais",
+      "description": "Materiais confiáveis publicados online: entrevistas, debates, recursos factuais: ser nerd é o novo legal!"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Modulo 1: Giornalismo basato su droni",
+    "file": "it/module1.pdf",
+    "presentation": "it/module1_presentation.pdf",
+    "image": "en/module1.webp",
+    "description": "L'uso dei droni per la raccolta di informazioni nell'industria giornalistica è ancora una novità. In passato, i giornalisti realizzavano riprese aeree con elicotteri, spesso noleggiati, comportando costi di produzione più elevati. La tecnologia dei droni permette ai giornalisti di riprendere eventi come eruzioni vulcaniche, villaggi devastati dalla guerra e disastri naturali. Poiché i droni sono operati a distanza, i giornalisti li considerano un mezzo più sicuro ed economico per la registrazione video, specialmente in coperture ad alto rischio."
+  },
+  {
+    "title": "Modulo 2: Regole e regolamenti",
+    "file": "it/module2.pdf",
+    "presentation": "it/module2_presentation.pdf",
+    "image": "en/module2.webp",
+    "description": "L'uso dei droni è regolamentato principalmente dall'autorità di aviazione civile (CAA) di ogni paese, anche se potrebbero essere necessarie autorizzazioni da altre agenzie o dipartimenti governativi. Poiché ogni CAA stabilisce le proprie regolamentazioni per i droni, queste possono variare notevolmente da un paese all'altro, creando problemi per i giornalisti o le organizzazioni mediatiche che desiderano utilizzare i droni in più di un paese. In alcune parti dell'Africa e dell'Asia, le leggi sui droni sono inutilmente restrittive, costose e poco chiare."
+  },
+  {
+    "title": "Modulo 3: Competenze e carriera",
+    "file": "it/module3.pdf",
+    "presentation": "it/module3_presentation.pdf",
+    "image": "en/module3.webp",
+    "description": "Un pilota di drone è responsabile del volo di un drone o di un veicolo aereo senza equipaggio (UAV). I droni sono dotati di telecamere e altri sensori e vengono utilizzati per vari scopi come la fotografia con drone, rilievi e mappature. Come pilota di drone, è necessario conoscere i vari comandi del drone per operarli efficacemente. È anche necessario essere a conoscenza delle normative relative all'uso dei droni nella propria zona, così come delle procedure di sicurezza da seguire per evitare incidenti. Se sei interessato a intraprendere una carriera come operatore di drone, o anche se vuoi semplicemente guadagnare qualche soldo extra con il tuo drone durante il fine settimana, il primo passo è ottenere la certificazione parte 107 rilasciata dalla Federal Aviation Administration (FAA). Dovresti anche considerare di seguire una formazione formale in fotografia aerea, videografia e/o mappatura. Una volta acquisite le competenze necessarie, puoi iniziare a cercare lavori UAV nella tua zona."
+  },
+  {
+    "title": "Modulo 4: Laboratorio tecnico e workshop di volo",
+    "file": "it/module4.pdf",
+    "presentation": "it/module4_presentation.pdf",
+    "image": "en/module4.webp",
+    "description": "Il laboratorio di sistemi aerei senza pilota (drone) si concentra sulla progettazione, ingegneria e implementazione di sistemi di imaging multimodali, tecniche di calibrazione e algoritmi di elaborazione per fornire i dati di migliore qualità per risolvere problemi nei campi dell'agricoltura di precisione e ispezione delle infrastrutture. I droni possono essere equipaggiati con sensori, tra cui sensori di distanza ultrasonici, laser o lidar, sensori di tempo di volo, sensori chimici e sensori di stabilizzazione e orientamento. I sensori visivi offrono dati statici e video."
+  },
+  {
+    "title": "Modulo 5: Reportage del pilota",
+    "file": "it/module5.pdf",
+    "presentation": "it/module5_presentation.pdf",
+    "image": "en/module5.webp",
+    "description": "Il reportage con drone nasce da un'ispirazione, per vedere ed esplorare la bellezza intorno a noi che spesso ignoriamo da una prospettiva diversa e completa, come quella che solo un drone può offrire. Il reportage con drone è specializzato nella creazione di immagini uniche, in tutte le applicazioni in cui può essere sviluppata la fotografia aerea."
+  }
+]

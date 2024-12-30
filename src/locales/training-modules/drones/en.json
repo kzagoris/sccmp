@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Module 1: Drone-based Journalism",
+        "file": "en/module1.pdf",
+        "presentation": "en/module1_presentation.pdf",
+        "image": "en/module1.webp",
+        "description": "The use of drones for information collection in the journalism industry is still new. In the past, reporters would take aerial footage with helicopters, which are often rented and incur higher production costs. Drone technology allows journalists to take footage of news events such as volcanic eruptions, war-torn villages, and natural disasters. Because drones are operated remotely, journalists see it as safer and cost-efficient means of video recording, especially in highly vulnerable coverage."
+    },
+    {
+        "title": "Module 2: Rules And Regulations",
+        "file": "en/module2.pdf",
+        "presentation":  "en/module2_presentation.pdf",
+        "image": "en/module2.webp",
+        "description": "The use of drones is regulated primarily by the civil aviation authority (CAA) of each country, although permissions from other government agencies or departments may need to be obtained. As each NAA sets its own regulations for drones they can vary widely from one country to the next, this poses a problem for journalists or media organisations who wish to use drones in more than one country. In parts of Africa and Asia, drone laws are unnecessarily restrictive, expensive, and opaque."
+    },
+    {
+        "title": "Module 3: Skills And Career",
+        "file": "en/module3.pdf",
+        "presentation":  "en/module3_presentation.pdf",
+        "image": "en/module3.webp",
+        "description": "A drone pilot is responsible for flying a drone, or an unmanned aerial vehicle (UAV). Drones are equipped with cameras and other sensors and are used for various purposes such as drone photography, surveying, and mapping. As a drone pilot, you need to be familiar with the various drone controls to operate them effectively. You will also need to be aware of the regulations surrounding drone use in your area, as well as the safety procedures to follow to avoid crashes. If you’re interested in pursuing a career as a drone operator, or even if you simply want to earn a bit of extra cash with your drone on the weekends, the first step is to obtain the part 107 certification issued by the Federal Aviation Administration (FAA). You also should consider taking formal training in aerial pictures, videography, and/or mapping. Once you have the necessary skills, you can begin searching for UAV jobs in your area."
+    },
+    {
+        "title": "Module 4: Technical Laboratory And Flight Workshop",
+        "file": "en/module4.pdf",
+        "presentation":  "en/module4_presentation.pdf",
+        "image": "en/module4.webp",
+        "description": "The Unmanned Aerial Systems (Drone) Laboratory is focused on the design, engineering, and implementation of multimodal imaging systems, calibration techniques, and processing algorithms to provide the highest quality data with which to solve problems in the fields of precision agriculture, infrastructure inspection. Drones can be equipped with sensors, including ultrasonic, laser or lidar distance sensors, time-of-flight sensors, chemical sensors, and stabilization and orientation sensors. Visual sensors offer still and video data."
+    },
+    {
+        "title": "Module 5: Pilot Reportage",
+        "file": "en/module5.pdf",
+        "presentation":  "en/module5_presentation.pdf",
+        "image": "en/module5.webp",
+        "description": "Drone Reportage arises from an inspiration, to see and explore the beauty around us and that we often ignore from a different perspective and comprehensive as those that only a drone can offer.Drone reportage and 'so' specializes in creating unique images, in all applications that the video aerial photography can be developed."
+    }
+]

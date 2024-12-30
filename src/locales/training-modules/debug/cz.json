@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Modul 1 - Zanechte svou stopu ve světě módy",
+        "to": "cz/module1.pdf",
+        "image": "cz/module1.webp",
+        "description": "<strong>Modul 1</strong> nabízí přehled historie udržitelné módy se zvláštním zaměřením na nové trendy. Tento modul, který se skládá ze tří bloků, vás seznámí s různými kariérními cestami, které svět módy nabízí, a poskytne vám základní a praktické rady, jak učinit první kroky ve vaší kariéře. Analýza dovedností potřebných k úspěchu v módním průmyslu je zde uvedena spolu s osvědčenými postupy v oblasti udržitelné módy. Modul 1 je nabitý informacemi o marketingu a komunikaci značky: k dispozici jsou také videa, články a aktivity, díky nimž zcela proniknete do krás módního světového průmyslu. K dispozici je také sebehodnotící test, který prověří vaše znalosti."
+    },
+    {
+        "title": "Modul 2 - Cesta k zelené a digitální transformaci",
+        "to": "cz/module2.pdf",
+        "image": "cz/module2.webp",
+        "description": "<strong>Modul 2</strong> rozšíří vaše znalosti v oblasti legislativy, inovací a získáte povědomí o tom, jak vybudovat základy \"zelenějšího\" módního průmyslu a tím přispět k udržitelnosti, společenské odpovědnosti a záchraně planety. Modul 2 se skládá ze tří bloků. Zabývá se dopadem módního průmyslu na životní prostředí a také dopadem pandemie COVID-19. Nakonec vás provede světem inovací prostřednictvím popisu nových obchodních modelů, služeb a výrobních postupů. Do tohoto modulu jsou vložena videa a online zdroje a na samém konci vás čeká sebehodnocení."
+    },
+    {
+        "title": "Modul 3 - Management a mediální marketing v módě",
+        "to": "cz/module3.pdf",
+        "image": "cz/module3.webp",
+        "description": "V <strong>modulu 3</strong> se seznámíte se základy managementu módy a dodavatelských řetězců v oblasti módy. Získáte nástroje, které vám pomohou vytvořit dobrou marketingovou strategii. Modul 3 se skládá ze tří částí a poskytuje odkazy na online zdroje a sebehodnotící test, který prověří vaše znalosti."
+    },
+    {
+        "title": "Modul 4 – Nový přístup k vnímání kvality textilu a jeho hodnocení prostřednictvím testování",
+        "to": "cz/module4.pdf",
+        "image": "cz/module4.webp",
+        "description": "<strong>Modul 4</strong> vás seznámí s novými přístupy k vnímání kvality textilií a jejímu hodnocení pomocí testování. Tento modul nabízí stručný úvod do koncepce udržitelného rozvoje v textilním a oděvním průmyslu. Seznámíte se s různými druhy textilních odpadů, dozvíte se o metodách recyklace textilu a o základních prvcích textilního hodnotového řetězce. Budou vám vysvětleny souvislosti mezi ekodesignem a textilními normami. Tento modul, vybavený videonahrávkami a online výukovými zdroji, prohloubí vaše znalosti o vnímání kvality textilií a metodách hodnocení. K dispozici je také sebehodnotící test, který polechtá vaše mozkové závity."
+    }
+]

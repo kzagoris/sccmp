@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Miss Funky Natty",
+        "description": "<p>Miss Funky Natty is a small lingerie brand situated in the beautiful island of Cyprus.</p><p>At Miss Funky Natty, we have a deep-rooted passion for crafting exquisite lingerie that makes every individual feel confident and empowered. Our brand is a testament to the synergy between creativity and craftsmanship, as we are dedicated to both the design and production of lingerie.</p><p>Our journey begins with me, personally involved in the intricate process of designing our products. The designs are a reflection of my vision and a celebration of body positivity, diversity and femininity.</p>",
+        "image": "funkynatty.webp",
+        "socials": [
+            {
+                "url": "https://missfunkynatty.com/",
+                "type": "website"
+            },
+            {
+                "url": "mailto:info@missfunkynatty.com",
+                "type": "email"
+            }
+        ]
+    },
+    {
+        "title": "Andrea Coderch",
+        "description": "<p>Andrea Coderch is an accessories designer located in Alcoi, Spain. Her brand COBA COMPLEMENTS is focused on the design of bags, handbags, wallets, and other complements. Their patterns are designed to generate zero fabric waste, they work in km 0 and the manufacturing process is completely handmade.</p>",
+        "image": "AndreaCoderch.webp",
+        "socials": [
+            {
+                "url": "https://www.cobacomplements.es/es/",
+                "type": "website"
+            }
+        ]
+    },
+    {
+        "title": "Gonzalo Villa Max",
+        "description": "<p>GONZALO VILLA MAX, self-taught clothing designer from Argentina, is the creator of VILLAMAX, a brand with a clothing design shop-workshop located in Valencia, where he seeks a sustainable consumption alternative for the community, using raw materials from local businesses, collaborating in capsule collections with local artists.</p>",
+        "image": "gonzalo_villa_max.webp",
+        "socials": [
+            {
+                "url": "https://villamax.es/colecciones/",
+                "type": "website"
+            }
+        ]
+    },
+    {
+        "title": "Jackelin Gonzalez Soriano",
+        "description": "<p>JACKELIN GONZÁLEZ SORIANO is a fashion designer and textile engineer from Valencia. Her knowledge of sustainability and recyclability of garments makes her want to approach and raise awareness among young people through the use of social networks</p>",
+        "image": "jackelin_gonzalez_soriano.webp",
+        "socials": []
+    },
+    {
+        "title": "Jesus Cuquerella",
+        "description": "The interior designer JESÚS CUQUERELLA creates spaces that are not only beautiful but also functional and practical for his clients, always considering the latest technologies and the quality of materials.",
+        "image": "jesus_cuquerella.webp",
+        "socials": []
+    },
+    {
+        "title": "maria_llinares_torregrosa",
+        "description": "<p>MARÍA LLINARES TORREGROSA has a varied work experience in the fashion industry. Her brand MARIA LUNARES helped her to join the Italian Artisan as a Fashion Designer. She is currently attending NABA Nuova Accademia di Belle Arti, where she is pursuing a Master of Arts - MA in Fashion and Textile Design. </p>",
+        "image": "maria_llinares_torregrosa.webp",
+        "socials": []
+    },
+    {
+        "title": "Noelia Martinez Bernal",
+        "description": "<p>NOELIA MARTÍNEZ BERNAL is a chemical and textile engineer working as an innovation agent for the Valencian community. She is in contact with textile companies related to the energy and chemical sectors to help them improve the sustainability of their products and processes.</p>",
+        "image": "noelia_martinez_bernal.webp",
+        "socials": []
+    },
+    {
+        "title": "Sara Lopez",
+        "description": "<p>SARA LÓPEZ is a fashion designer and textile engineer focused on the textile recycling and circularity. She seeks new models, processes and methods through research and innovation. For her, the only way to design and manufacture a garment is to apply sustainability throughout the process.</p>",
+        "image": "sara_lopez.webp",
+        "socials": []
+    },
+    {
+        "title": "Háta Vicherková & Eva Vele",
+        "description": "<p>Eva Vele and Háta Vicherková are friends brought together by chance. They met while organising the exhibition Imprint. They hit it off in terms of their opinions and humanity, and so they embarked on other projects together, including the search for a replacement for disposable packaging. This led to the “V Pytli” project, which offers a solution that can elegantly replace disposable packaging in certain cases.</p><p>With the social brand “vo.bal”, they produce waxed napkins and pastry bags by upcycling fabrics. The other direction of their activities is the development of a replacement for plastic bags, called big bags (used in the construction industry for handling various materials).</p>",
+        "image": "hata_vicherkova_eva_vele.webp",
+        "socials": [
+            {
+                "url": "https://vpytli.eu/",
+                "type": "website"
+            },
+            {
+                "url": "hata.vicherkova@vpytli.eu",
+                "type": "email"
+            }
+        ]
+    },
+    {
+        "title": "ANTONOVA JEWELRY",
+        "description": "<p>Melani Antonova is a content creator and miniature crocheter who makes items inspired by nature, flowers, insects, desserts, ...</p><p>Melani is currently studying a degree in Costume and Performance Costume Design.</p><p>Her project is an adjustable tiara, woven with cuttings from leftover fabrics inspired by jasmine flowers. This item does not use any chemicals and can be redesigned at any time so the buyer can give it to the designer to get another tiara with a new look.</p>",
+        "image": "Melani_Antonova.webp",
+        "socials": [
+            {
+                "url": "https://www.instagram.com/antonovajewelry?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+                "type": "instagram"
+            },
+            {
+                "url": "melaniantonova08@gmail.com",
+                "type": "email"
+            }
+        ]
+    },
+    {
+        "title": "SARAI VILA FERRERO",
+        "description": "<p>Sarai Vila is a student of Pattern Making and Fashion. The product she has designed is a jute jacket with puffed sleeves that would have a size between S and M. The jacket would be fastened at the waist with a jute belt, and at the end of the sleeve there would be small wooden buttons. Beetroot juice is a way to dye a garment pink in an environmentally friendly and chemical-free way.</p><p>When this garment has already been used, a good way to give it another life would be to transform it into bags of the colour of the jacket. </p>",
+        "image": "sarai_vila_ferrero.webp",
+        "socials": [
+            {
+                "url": "https://www.instagram.com/saraaiferrero_/?hl=es",
+                "type": "instagram"
+            },
+            {
+                "url": "saraivf05@gmail.com",
+                "type": "email"
+            }
+        ]
+    },
+    {
+        "title": "Clarissa GRECO",
+        "description": "<p>Clarissa GRECO obtained a master's degree in Performing Arts Teaching, and out of passion, she began creating fashion accessories using the crochet technique.</p><p>In addition to creating accessories, she also creates dresses, scarves, and capes. Clarissa tries to combine ancient traditions with current fashions of the moment. The manufacturing process is completely handmade.</p>",
+        "image": "clarissa_greco.webp",
+        "socials": []
+    },
+    {
+        "title": "Francesco RIA ",
+        "description": "<p>Francesco RIA is a self-taught clothing designer. His approach to fashion is to recover vintage clothes and give them new life. He used to collect small stones to create the prickly pear plant (typical of the Salento area) decoration for bags.</p>",
+        "image": "francesco_ria.webp",
+        "socials": []
+    }
+
+
+]

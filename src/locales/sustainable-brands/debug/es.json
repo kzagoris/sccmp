@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Andrea Coderch",
+    "description": "<p>ANDREA CODERCH es una diseñadora de complementos afincada en Alcoi, España. Su marca COBA COMPLEMENTS se centra en el diseño de bolsos, carteras y otros complementos. Sus patrones están diseñados para generar cero residuos de tejido, trabajan en km 0 y el proceso de fabricación es totalmente artesanal.</p>",
+    "image": "AndreaCoderch.webp",
+    "socials": [
+      {
+        "url": "https://www.cobacomplements.es/es/",
+        "type": "website"
+      }
+    ]
+  },
+  {
+    "title": "Gonzalo Villa Max",
+    "description": "<p>GONZALO VILLA MAX, diseñador de indumentaria autodidacta argentino, es el creador de VILLAMAX, una marca con tienda-taller de diseño de indumentaria ubicada en Valencia, donde busca una alternativa de consumo sostenible para la comunidad, utilizando materias primas de empresas locales y colaborando en colecciones cápsula con otros artistas de la zona.</p>",
+    "image": "gonzalo_villa_max.webp",
+    "socials": [
+      {
+        "url": "https://villamax.es/colecciones/",
+        "type": "website"
+      }
+    ]
+  },
+  {
+    "title": "Jackelin Gonzalez Soriano",
+    "description": "<p>JACKELIN GONZÁLEZ SORIANO es diseñadora de moda e ingeniera textil valenciana. Su conocimiento de la sostenibilidad y reciclabilidad de las prendas hace que quiera acercarse y concienciar a los jóvenes a través del uso de las redes sociales</p>",
+    "image": "jackelin_gonzalez_soriano.webp",
+    "socials": []
+  },
+  {
+    "title": "Jesus Cuquerella",
+    "description": "El interiorista JESÚS CUQUERELLA crea espacios no sólo bellos sino también funcionales y prácticos para sus clientes, siempre teniendo en cuenta las últimas tecnologías y la calidad de los materiales.",
+    "image": "jesus_cuquerella.webp",
+    "socials": []
+  },
+  {
+    "title": "maria_llinares_torregrosa",
+    "description": "<p>MARÍA LLINARES TORREGROSA tiene una variada experiencia laboral en la industria de la moda. Su marca MARIA LUNARES le ayudó a incorporarse a la artesanía italiana como diseñadora de moda. Actualmente asiste a la NABA, Nuova Accademia di Belle Arti, donde cursa un Máster Artístico en Diseño de Moda y Textil.</p>",
+    "image": "maria_llinares_torregrosa.webp",
+    "socials": []
+  },
+  {
+    "title": "Noelia Martinez Bernal",
+    "description": "<p>NOELIA MARTÍNEZ BERNAL es una ingeniera química y textil que trabaja como agente de innovación para la Comunidad Valenciana. Está en contacto con empresas textiles relacionadas con los sectores energético y químico para ayudarles a mejorar la sostenibilidad de sus productos y procesos.</p>",
+    "image": "noelia_martinez_bernal.webp",
+    "socials": []
+  },
+  {
+    "title": "Sara Lopez",
+    "description": "<p>SARA LÓPEZ es diseñadora de moda e ingeniera textil centrada en el reciclaje textil y la circularidad. Busca nuevos modelos, procesos y métodos a través de la investigación y la innovación. Para ella, la única forma de diseñar y fabricar una prenda es aplicar la sostenibilidad en todo el proceso.</p>",
+    "image": "sara_lopez.webp",
+    "socials": []
+  }
+]

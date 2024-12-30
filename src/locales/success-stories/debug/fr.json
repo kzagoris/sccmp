@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Florin Marginean",
+    "description": "<p>Florin Marginean est le propriétaire et fondateur de Yalta Fashion Store. Par l'intermédiaire de son entreprise de vente au détail en ligne durable, il met l'accent sur la pertinence des pratiques durables dans les affaires et dans la société en général. Il s'agit d'un exemple vivant d'entrepreneuriat réussi et consciencieux, qui montre aux jeunes que leurs entreprises peuvent être rentables tout en étant soucieuses de l'environnement.</p>",
+    "image": "cover-image.webp",
+    "country": "fr",
+    "video": {
+      "src": "itbbkWLQo5k",
+      "type": "youtube"
+    },
+    "socials": [
+      {
+        "url": "https://instagram.com/yaltafashionstore?igshid=MzRlODBiNWFlZA==",
+        "type": "instagram"
+      }
+    ]
+  },
+  {
+    "title": "Umran Ozkan",
+    "description": "<p>Originaire des rues animées d'Istanbul, Umran n'est pas seulement une créatrice ; c'est une alchimiste de la mode, qui transforme les idées en chaussures et accessoires à la mode.</p><p>Avec une formation en conception de produits industriels, Umran apporte au monde de la mode un mélange unique de praticité et de flair artistique. Son parcours est l'histoire d'une réussite personnelle, construite sur la base d'expériences diverses et de stages enrichissants.</p><p>Au cœur de l'effervescence de la scène de la mode à Istanbul, Umran travaille avec une grande marque de mode. Ses créations sont plus que de simples accessoires ; ce sont des déclarations d'individualité et des expressions audacieuses de style.</p>",
+    "image": "cover-image.webp",
+    "country": "fr",
+    "video": {
+      "src": "gTH6Bc27ygs",
+      "type": "youtube"
+    },
+    "socials": []
+  },
+  {
+    "title": "Berfu Cifci",
+    "description": "<p>Le parcours de Berfu dans le domaine de la création de mode est une toile vibrante tissée de passion, d'innovation et d'un profond engagement en faveur de la durabilité. Dès ses premiers souvenirs, la mode n'a pas été un simple choix, mais une vocation. Berfu a toujours aspiré à exprimer sa vision unique à travers le design, et elle a trouvé son créneau dans la mode durable, où elle allie style et conscience environnementale.</p>",
+    "image": "cover-image.webp",
+    "country": "fr",
+    "video": {
+      "src": "dGDFow9_EpU",
+      "type": "youtube"
+    },
+    "socials": []
+  },
+  {
+    "title": "Pauline Murati",
+    "description": "<p>A la fin de ses études de droit, Pauline se rend compte que ce n'est pas sa voix. En effet, le monde de la mode l'a toujours attirée et elle a eu le courage d'arrêter ses études et de commencer des études de mode.</p><p>Pauline souhaite travailler dans la mode durable et notamment valoriser les tissus et les transformer.</p>",
+    "image": "cover-image.webp",
+    "country": "fr",
+    "video": {
+      "src": "KbBEhNN3dS0",
+      "type": "youtube"
+    },
+    "socials": [
+      {
+        "url": "https://www.instagram.com/muratipaulinephotography/",
+        "type": "website"
+      }
+    ]
+  },
+  {
+    "title": "Rossi-Guglielmacci Marie",
+    "description": "<p>Dès son plus jeune âge, Marie rêve de devenir styliste.</p><p>Marie exprime sa passion dans ses cours de peinture qui lui permettent de se perfectionner et de réaliser les croquis de ses vêtements.</p><p>Petit à petit, cette passion ne pouvait plus rester qu'un passe-temps pour cette jeune corse. Je voulais réaliser mes croquis avec une qualité et une authenticité exceptionnelles.</p><p>Elle apporte ce 'plus' qui permet de différencier ses créations. Cette authenticité du savoir-faire français qui reste inimitable est renforcée par une fabrication entièrement réalisée sur l'île.</p>",
+    "image": "cover-image.webp",
+    "country": "fr",
+    "video": {
+      "src": "KbBEhNN3dS0",
+      "type": "youtube"
+    },
+    "socials": [
+      {
+        "url": "https://maisonmacci.com",
+        "type": "website"
+      },
+      {
+        "url": "https://www.instagram.com/maisonmacci",
+        "type": "instagram"
+      },
+      {
+        "url": "https://fr-fr.facebook.com/maisonmaccipageofficiel/",
+        "type": "facebook"
+      }
+    ]
+  }
+]

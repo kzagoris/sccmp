@@ -1,0 +1,11 @@
+{
+  "auth/email-already-in-use": "E-pošta je že v uporabi",
+  "auth/invalid-email": "Neveljaven e-poštni naslov",
+  "auth/operation-not-allowed": "Operacija ni dovoljena",
+  "auth/weak-password": "Geslo je prešibko",
+  "auth/wrong-password": "Napačno geslo",
+  "auth/user-not-found": "Uporabnik ni najden",
+  "auth/user-disabled": "Uporabnik je onemogočen",
+  "auth/invalid-credential": "Neveljavno poverilo",
+  "auth/invalid-verification-code": "Neveljavna potrditvena koda"
+}

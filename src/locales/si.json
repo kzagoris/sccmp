@@ -1,0 +1,85 @@
+{
+  "login": {
+    "signInAccount": "Prijavite se v svoj račun",
+    "Email address": "Elektronski naslov",
+    "Password": "Geslo",
+    "You don't have an account?": "Nimate računa?",
+    "Email is required": "Elektronski naslov je obvezen",
+    "Password must be at least 6 characters": "Geslo mora vsebovati vsaj 6 znakov",
+    "Needs a valid email address": "Potreben je veljaven elektronski naslov",
+    "Password is required": "Geslo je obvezno",
+    "Logout": "Odjava"
+  },
+  "home": {
+    "intro": {
+      "title": "Dobrodošli v Inkubatorju",
+      "description-1": "Inkubator je interaktivno orodje za lažji dostop do usposabljanja in zagotavljanja tehnične pomoči mladim (18-30 let), ki jim primanjkuje znanja in spretnosti pri uporabi DRONOV.",
+      "description-2": "V inkubatorju je baza znanj, s katerimi boste uporabniki osvežili ali izboljšali kompetence za uporabo DRONA  pri svojem delu in poklicni karieri. V inkubatorju boste na enem mestu našli informacije o uporabi drona, usposabljanje za upravljanje dronov in tehnično pomoč.",
+      "description-3": "Inkubator vsebuje informacije za mlade, ki bi radi nadaljevali poklicno pot z uporabo dronov ali ustanovili podjetje s to dejavnostjo. Z uporabo inkubatorja boste mladi lahko razvijali svojo kariero na področju novinarstva z droni, videografije, izdelave reportaž, spoznali boste razpoložljiva orodja, ki so v pomoč pri  reševanju tehnoloških izzivov."
+    },
+    "Incubator: Choose your language": "Incubator: Choose your language"
+  },
+  "menu": {
+    "Home": "Domov",
+    "Modules": "Moduli",
+    "Courses Materials": "Gradiva za tečaje",
+    "Handbook": "Priročnik",
+    "Find out more": "Izvedite več",
+    "Success Stories": "Zgodbe o uspehu"
+  },
+  "footer": {
+    "Keep up to date with the latest news from": "Ostanite na tekočem z najnovejšimi novicami od",
+    "Sign up to our Newsletter": "Prijavite se na naše novice",
+    "Email address": "Elektronski naslov",
+    "This project has been funded with support from the European Commission": "Projekt je bil financiran s podporo Evropske komisije",
+    "This website reflects the views only of the author, and the Commission cannot be held responsible for any  use which may be made of the information contained herein": "To spletno mesto odraža zgolj poglede avtorja in Komisija ne odgovarja za nobeno uporabo informacij, ki jih vsebuje",
+    "Subscribe": "Naročite se",
+    "Follow Us": "Sledite nam",
+    "Enter your email": "Vnesite svoj e-poštni naslov"
+  },
+  "profile": {
+    "account": "Račun",
+    "profile": "Profil",
+    "noVerifyEmailMessage": "Vaš elektronski naslov ni bil preverjen. Preverite svojo pošto za potrditveno sporočilo",
+    "shareInfoWarning": "Te informacije bodo javno prikazane, zato bodite previdni pri deljenju",
+    "firstName": "Ime",
+    "lastName": "Priimek",
+    "photo": "Fotografija",
+    "remove": "Odstrani",
+    "description": "Opis",
+    "userPhoto": "Uporabnikova fotografija",
+    "profileDescription": "Kratek opis vašega profila",
+    "personalInfo": "Osebni podatki",
+    "emailAddress": "Elektronski naslov",
+    "age": "Starost",
+    "displayLang": "Jezik prikaza",
+    "add": "Dodaj",
+    "change": "Spremeni",
+    "update": "Posodobi",
+    "create": "Ustvari",
+    "lastUpdated": "Ta račun je bil nazadnje posodobljen"
+  },
+  "trainingModules": {
+    "trainingModules": "Usposabljalni moduli",
+    "Download": "Kurikul",
+    "Presentation": "Predstavitev",
+    "Quizzes": "Kvizi"
+  },
+  "additionalResources": {
+    "additionalResources": "Drugi viri",
+    "files": {
+      "name": "Datoteke",
+      "description": "Vodniki o trajnostni modi, spletne igre, ki so poučne in zabavne, seznami spletnih mest z trajnostnimi znamkami in še veliko več!",
+      "download": "Prenesi"
+    },
+    "videos": {
+      "name": "Videoposnetki",
+      "description": "Dokumentarci, intervjuji in video vodniki o trajnostni modi: poučni in zabavni!"
+    },
+    "articles": {
+      "name": "Članki",
+      "readMore": "Preberi več",
+      "description": "Zanesljivi spletni viri: intervjuji, razprave, dejanski viri: biti zanesljiv je novo kul!"
+    }
+  }
+}

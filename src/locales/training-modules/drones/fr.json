@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Module 1: Journalisme basé sur les drones",
+    "file": "fr/module1.pdf",
+    "presentation": "fr/module1_presentation.pdf",
+    "image": "en/module1.webp",
+    "description": "L'utilisation de drones pour la collecte d'informations dans l'industrie du journalisme est encore nouvelle. Dans le passé, les journalistes prenaient des images aériennes avec des hélicoptères, souvent loués et entraînant des coûts de production plus élevés. La technologie des drones permet aux journalistes de prendre des images d'événements tels que les éruptions volcaniques, les villages ravagés par la guerre et les catastrophes naturelles. Comme les drones sont pilotés à distance, les journalistes les considèrent comme un moyen d'enregistrement vidéo plus sûr et plus rentable, en particulier dans des couvertures hautement vulnérables."
+  },
+  {
+    "title": "Module 2: Règles et réglementations",
+    "file": "fr/module2.pdf",
+    "presentation": "fr/module2_presentation.pdf",
+    "image": "en/module2.webp",
+    "description": "L'utilisation des drones est principalement régulée par l'autorité de l'aviation civile (CAA) de chaque pays, bien que des autorisations d'autres agences ou départements gouvernementaux puissent être nécessaires. Comme chaque NAA établit ses propres réglementations pour les drones, elles peuvent varier considérablement d'un pays à l'autre, ce qui pose problème aux journalistes ou aux organisations médiatiques souhaitant utiliser des drones dans plusieurs pays. Dans certaines régions d'Afrique et d'Asie, les lois sur les drones sont inutilement restrictives, coûteuses et opaques."
+  },
+  {
+    "title": "Module 3: Compétences et carrière",
+    "file": "fr/module3.pdf",
+    "presentation": "fr/module3_presentation.pdf",
+    "image": "en/module3.webp",
+    "description": "Un pilote de drone est responsable de la conduite d'un drone ou d'un véhicule aérien sans pilote (UAV). Les drones sont équipés de caméras et d'autres capteurs et sont utilisés à diverses fins telles que la photographie par drone, la topographie et la cartographie. En tant que pilote de drone, vous devez être familiarisé avec les différents contrôles du drone pour les utiliser efficacement. Vous devez également être au courant des réglementations entourant l'utilisation des drones dans votre région, ainsi que des procédures de sécurité à suivre pour éviter les accidents. Si vous êtes intéressé par une carrière de pilote de drone, ou même si vous souhaitez simplement gagner un peu d'argent supplémentaire avec votre drone le week-end, la première étape est d'obtenir la certification de la partie 107 délivrée par la Federal Aviation Administration (FAA). Vous devriez également envisager de suivre une formation formelle en photographie aérienne, vidéographie et/ou cartographie. Une fois que vous avez acquis les compétences nécessaires, vous pouvez commencer à chercher des emplois UAV dans votre région."
+  },
+  {
+    "title": "Module 4: Laboratoire technique et atelier de vol",
+    "file": "fr/module4.pdf",
+    "presentation": "fr/module4_presentation.pdf",
+    "image": "en/module4.webp",
+    "description": "Le laboratoire de systèmes aériens sans pilote (drone) se concentre sur la conception, l'ingénierie et la mise en œuvre de systèmes d'imagerie multimodaux, de techniques de calibrage et d'algorithmes de traitement pour fournir les données de la plus haute qualité pour résoudre des problèmes dans les domaines de l'agriculture de précision, de l'inspection des infrastructures. Les drones peuvent être équipés de capteurs, y compris des capteurs de distance ultrasoniques, laser ou lidar, des capteurs de temps de vol, des capteurs chimiques et des capteurs de stabilisation et d'orientation. Les capteurs visuels fournissent des données fixes et vidéo."
+  },
+  {
+    "title": "Module 5: Reportage de pilote",
+    "file": "fr/module5.pdf",
+    "presentation": "fr/module5_presentation.pdf",
+    "image": "en/module5.webp",
+    "description": "Le reportage par drone naît d'une inspiration, pour voir et explorer la beauté qui nous entoure et que nous ignorons souvent d'un point de vue différent et complet, comme celui qu'un drone peut offrir. Le reportage par drone est spécialisé dans la création d'images uniques, dans toutes les applications que la photographie aérienne peut développer."
+  }
+]

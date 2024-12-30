@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Módulo 1: Periodismo basado en drones",
+    "file": "en/module1.pdf",
+    "presentation": "en/module1_presentation.pdf",
+    "image": "en/module1.webp",
+    "description": "El uso de drones para la recolección de información en la industria del periodismo aún es nuevo. En el pasado, los reporteros tomaban imágenes aéreas con helicópteros, que a menudo se alquilaban y tenían mayores costos de producción. La tecnología de drones permite a los periodistas tomar imágenes de eventos noticiosos como erupciones volcánicas, aldeas devastadas por la guerra y desastres naturales. Dado que los drones se operan de forma remota, los periodistas lo ven como un medio más seguro y rentable de grabación de video, especialmente en coberturas altamente vulnerables."
+  },
+  {
+    "title": "Módulo 2: Reglas y regulaciones",
+    "file": "en/module2.pdf",
+    "presentation": "en/module2_presentation.pdf",
+    "image": "en/module2.webp",
+    "description": "El uso de drones está regulado principalmente por la autoridad de aviación civil (CAA) de cada país, aunque puede ser necesario obtener permisos de otras agencias o departamentos gubernamentales. Dado que cada NAA establece sus propias regulaciones para drones, pueden variar ampliamente de un país a otro, lo que representa un problema para los periodistas o las organizaciones de medios que desean usar drones en más de un país. En partes de África y Asia, las leyes de drones son innecesariamente restrictivas, costosas y opacas."
+  },
+  {
+    "title": "Módulo 3: Habilidades y carrera",
+    "file": "en/module3.pdf",
+    "presentation": "en/module3_presentation.pdf",
+    "image": "en/module3.webp",
+    "description": "Un piloto de drone es responsable de volar un drone o un vehículo aéreo no tripulado (UAV). Los drones están equipados con cámaras y otros sensores y se utilizan para diversos propósitos, como la fotografía con drones, la topografía y la cartografía. Como piloto de drone, es necesario familiarizarse con los diversos controles del drone para operarlos de manera efectiva. También deberá estar al tanto de las regulaciones que rodean el uso de drones en su área, así como de los procedimientos de seguridad a seguir para evitar accidentes. Si está interesado en seguir una carrera como operador de drones, o incluso si simplemente desea ganar un poco de dinero extra con su drone durante los fines de semana, el primer paso es obtener la certificación de la parte 107 emitida por la Administración Federal de Aviación (FAA). También debería considerar recibir capacitación formal en fotografía aérea, videografía y/o cartografía. Una vez que tenga las habilidades necesarias, puede comenzar a buscar trabajos de UAV en su área."
+  },
+  {
+    "title": "Módulo 4: Laboratorio técnico y taller de vuelo",
+    "file": "en/module4.pdf",
+    "presentation": "en/module4_presentation.pdf",
+    "image": "en/module4.webp",
+    "description": "El Laboratorio de Sistemas Aéreos No Tripulados (Drone) se centra en el diseño, ingeniería e implementación de sistemas de imágenes multimodales, técnicas de calibración y algoritmos de procesamiento para proporcionar los datos de la más alta calidad con los cuales resolver problemas en los campos de la agricultura de precisión, inspección de infraestructuras. Los drones pueden estar equipados con sensores, incluidos sensores de distancia ultrasónicos, láser o lidar, sensores de tiempo de vuelo, sensores químicos y sensores de estabilización y orientación. Los sensores visuales ofrecen datos fijos y de video."
+  },
+  {
+    "title": "Módulo 5: Reportaje de piloto",
+    "file": "en/module5.pdf",
+    "presentation": "en/module5_presentation.pdf",
+    "image": "en/module5.webp",
+    "description": "El reportaje con drones surge de una inspiración, para ver y explorar la belleza que nos rodea y que a menudo ignoramos desde una perspectiva diferente y completa, como las que solo un drone puede ofrecer. El reportaje con drones se especializa en crear imágenes únicas, en todas las aplicaciones que la fotografía aérea puede desarrollar."
+  }
+]

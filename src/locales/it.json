@@ -1,0 +1,126 @@
+{
+  "login": {
+    "signInAccount": "Accedi al tuo account",
+    "Email address": "Indirizzo email",
+    "Password": "Password",
+    "You don't have an account?": "Non hai un account?",
+    "Email is required": "L'email è obbligatoria",
+    "Password must be at least 6 characters": "La password deve essere di almeno 6 caratteri",
+    "Needs a valid email address": "È necessario un indirizzo email valido",
+    "Password is required": "La password è obbligatoria",
+    "Logout": "Esci",
+    "Forgot your password?": "Hai dimenticato la password?",
+    "Reset it": "Reimpostala",
+    "Sign Up!": "Iscriviti!",
+    "Sign In!": "Accedi!",
+    "Reset password": "Reimposta password",
+    "Reset your password": "Reimposta la tua password",
+    "Remember your password?": "Ricordi la tua password?",
+    "Password reset email sent": "Email per reimpostare la password inviata, se l'indirizzo esiste. Controlla la tua casella di posta!",
+    "Create an account": "Crea un account",
+    "Verify Password": "Verifica Password",
+    "Create account": "Crea un account",
+    "Already have an account?": "Hai già un account?",
+    "Set your password": "Imposta la tua password",
+    "Password verification is required": "È necessaria la verifica della password",
+    "Passwords do must match": "Le password devono coincidere"
+  },
+  "home": {
+    "intro": {
+      "title": "Benvenuti nell'Incubatore",
+      "description-1": "L’Incubatore è uno strumento interattivo per facilitare l’accesso alla formazione online e fornire assistenza tecnica ai giovani (18 – 30 anni), interessati ad acquisire nuove conoscenze e competenze relative alla tecnologia dei DRONI.",
+      "description-2": "L'Incubatore del progetto DRONES è a disposizione dei giovani che desiderano acquisire nuove abilità per stabilire e/o migliorare l'uso dei DRONI nei diversi ambienti di lavoro e nella carriera professionale. Mira inoltre a supportare il gruppo target ad acquisire le competenze necessarie, attraverso l’accesso ed utilizzo di materiale formativo e l’assistenza tecnica in un unico luogo online.",
+      "description-3": "Questo strumento raccoglie le informazioni ricercate dai giovani che vogliono intraprendere una carriera o avviare una nuova attività che preveda l'uso dei DRONI, ampliando le possibilità di nuove carriere nel settore delle nuove tecnologiche, o nel  giornalismo con l’utilizzo dei droni per le riprese, videoclip, reportage, contribuendo  inoltre alla modernizzazione dei  diversi settori per affrontare le nuove sfide del millennio."
+    },
+    "Incubator: Choose your language": "Incubatore: Scegli la tua lingua"
+  },
+  "menuDescriptions": {
+    "modules": "I moduli includono nuove competenze e conoscenze sulla tecnologia dei droni, risorse, materiali, metodi di formazione e valutazione. I cinque moduli di formazione sono specifici per la progettazione dei programmi di studio."
+  },
+  "menu": {
+    "Home": "Home",
+    "Description": "Descrizione",
+    "Modules": "Moduli",
+    "Courses Materials": "Materiali del corso",
+    "Handbook": "Manuale",
+    "Find out more": "Scopri di più",
+    "Success Stories": "Storie di successo",
+    "Check it out": "Dai un'occhiata",
+    "Website": "Sito web",
+    "Sustainable Brands": "Marchi sostenibili"
+  },
+  "footer": {
+    "Keep up to date with the latest news from": "Tieniti aggiornato sulle ultime novità da",
+    "Sign up to our Newsletter": "Iscriviti alla nostra Newsletter",
+    "Email address": "Indirizzo email",
+    "This project has been funded with support from the European Commission": "Questo progetto è stato finanziato con il sostegno della Commissione europea",
+    "This website reflects the views only of the author, and the Commission cannot be held responsible for any  use which may be made of the information contained herein": "Questo sito web riflette solo le opinioni dell'autore e la Commissione non può essere ritenuta responsabile per qualsiasi uso che possa essere fatto delle informazioni contenute in esso",
+    "Subscribe": "Iscriviti",
+    "Follow Us": "Seguici",
+    "Enter your email": "Inserisci la tua email"
+  },
+  "profile": {
+    "account": "Account",
+    "profile": "Profilo",
+    "noVerifyEmailMessage": "Il tuo indirizzo email non è stato verificato. Controlla la tua casella di posta per un'email di verifica",
+    "shareInfoWarning": "Queste informazioni verranno mostrate pubblicamente, quindi fai attenzione a ciò che condividi",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "photo": "Foto",
+    "remove": "Rimuovi",
+    "description": "Descrizione",
+    "userPhoto": "Foto dell'utente",
+    "profileDescription": "Breve descrizione del tuo profilo",
+    "personalInfo": "Informazioni personali",
+    "emailAddress": "Indirizzo email",
+    "age": "Età",
+    "displayLang": "Lingua di visualizzazione",
+    "add": "Aggiungi",
+    "change": "Modifica",
+    "update": "Aggiorna",
+    "create": "Crea",
+    "lastUpdated": "Questo account è stato aggiornato l'ultima volta il"
+  },
+  "trainingModules": {
+    "trainingModules": "Moduli di formazione",
+    "Download": "Curriculum ",
+    "Presentation": "Presentazione",
+    "Quizzes": "Quizzes"
+  },
+  "successStories": {
+    "Success Stories": "Storie di successo",
+    "Cyprus": "Cipro",
+    "Spain": "Spagna",
+    "Italy": "Italia",
+    "France": "Francia",
+    "Czech": "Repubblica Ceca",
+    "All countries": "Tutti i paesi",
+    "Filter by Country": "Filtra per paese"
+  },
+  "additionalResources": {
+    "additionalResources": "Altre risorse",
+    "files": {
+      "name": "File",
+      "description": "Guide sulla moda sostenibile, giochi online educativi e divertenti, liste di siti web su marchi sostenibili e molto altro!",
+      "download": "Scarica"
+    },
+    "videos": {
+      "name": "Video",
+      "description": "Documentari, interviste e video guide sulla moda sostenibile: informativi e divertenti!"
+    },
+    "articles": {
+      "name": "Articoli",
+      "readMore": "Leggi di più",
+      "description": "Materiali affidabili pubblicati online: interviste, dibattiti, risorse basate sui fatti: essere nerd è alla moda!"
+    },
+    "various": {
+      "name": "Vari",
+      "readMore": "Leggi di più",
+      "description": ""
+    }
+  },
+  "sustainableBrands": {
+    "Sustainable Brands": "Marchi sostenibili",
+    "subTitle": "Marchi attentamente progettati per l'ambiente di lavoro, la casa e i viaggi."
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "search.exclude": {
+        "**/lib": true
+    },
+    "files.exclude": {
+        "**/lib": true
+    }
+}

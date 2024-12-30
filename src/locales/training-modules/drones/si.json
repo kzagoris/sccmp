@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Modul 1: Novinarstvo na osnovi dronov",
+    "file": "si/module1.pdf",
+    "presentation": "si/module1_presentation.pdf",
+    "image": "en/module1.webp",
+    "description": "Uporaba dronov za zbiranje informacij v novinarski industriji je še vedno nova. V preteklosti so novinarji z helikopterji posneli zračne posnetke, ki so pogosto najeti in povzročajo višje produkcijske stroške. Tehnologija dronov omogoča novinarjem snemanje novinarskih dogodkov, kot so izbruhi vulkanov, vasi razdejane zaradi vojne in naravne katastrofe. Ker se droni upravljajo na daljavo, jih novinarji vidijo kot varnejše in stroškovno učinkovitejše sredstvo za snemanje videoposnetkov, zlasti v zelo ranljivih območjih."
+  },
+  {
+    "title": "Modul 2: Pravila in predpisi",
+    "file": "si/module2.pdf",
+    "presentation": "si/module2_presentation.pdf",
+    "image": "en/module2.webp",
+    "description": "Uporabo dronov predvsem ureja civilna letalska oblast (CAA) vsake države, čeprav je morda treba pridobiti dovoljenja od drugih vladnih agencij ali oddelkov. Ker vsaka NAA določa svoja pravila za drone, se lahko močno razlikujejo od ene države do druge, kar predstavlja težavo za novinarje ali medijske organizacije, ki želijo uporabljati drone v več kot eni državi. V delih Afrike in Azije so zakoni o dronih nepotrebno omejevalni, dragi in nepregledni."
+  },
+  {
+    "title": "Modul 3: Sposobnosti in kariera",
+    "file": "si/module3.pdf",
+    "presentation": "si/module3_presentation.pdf",
+    "image": "en/module3.webp",
+    "description": "Pilot drona je odgovoren za letenje drona ali brezpilotnega zračnega vozila (UAV). Droni so opremljeni s kamero in drugimi senzorji ter se uporabljajo za različne namene, kot so fotografiranje z droni, geodetske meritve in kartiranje. Kot pilot drona morate poznati različne kontrole drona, da jih lahko učinkovito upravljate. Prav tako morate biti seznanjeni z predpisi o uporabi dronov na vašem območju, kot tudi z varnostnimi postopki, ki jih je treba upoštevati, da se izognete nesrečam. Če vas zanima kariera kot operater drona ali če želite preprosto zaslužiti nekaj dodatnega denarja z vašim dronom med vikendi, je prvi korak pridobitev certifikata 107, ki ga izda Federal Aviation Administration (FAA). Prav tako bi morali razmisliti o formalnem usposabljanju za zračno fotografiranje, videografijo in/ali kartiranje. Ko pridobite potrebne veščine, lahko začnete iskati UAV delovna mesta na vašem območju."
+  },
+  {
+    "title": "Modul 4: Tehnični laboratorij in letalska delavnica",
+    "file": "si/module4.pdf",
+    "presentation": "si/module4_presentation.pdf",
+    "image": "en/module4.webp",
+    "description": "Laboratorij za brezpilotne zračne sisteme (dron) je osredotočen na načrtovanje, inženiring in izvajanje multimodalnih slikovnih sistemov, kalibracijskih tehnik in obdelovalnih algoritmov za zagotavljanje najkakovostnejših podatkov za reševanje problemov na področjih natančnega kmetijstva, pregleda infrastrukture. Droni so lahko opremljeni s senzorji, vključno z ultrazvočnimi, laserskimi ali lidarskimi razdaljami, senzorji časa letenja, kemičnimi senzorji in senzorji za stabilizacijo in orientacijo. Vizualni senzorji ponujajo še vedno in video podatke."
+  },
+  {
+    "title": "Modul 5: Pilotno poročanje",
+    "file": "si/module5.pdf",
+    "presentation": "si/module5_presentation.pdf",
+    "image": "en/module5.webp",
+    "description": "Poročanje z dronom izhaja iz navdiha, da vidimo in raziskujemo lepoto okoli nas, ki jo pogosto prezremo iz drugačne in celovite perspektive, kot jo lahko ponudi samo dron. Poročanje z dronom je specializirano za ustvarjanje edinstvenih slik v vseh aplikacijah, kjer se lahko razvija zračna fotografija."
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Módulo 1 - Deja tu huella en el mundo de la moda",
+        "to": "es/module1.pdf",
+        "image": "es/module1.jpg",
+        "description": "El <strong>módulo 1</strong> ofrece una visión general de la historia de la moda sostenible, con especial atención a las nuevas tendencias. Compuesto por tres unidades, este módulo te introducirá en las distintas trayectorias profesionales que ofrece el mundo de la moda y te proporcionará consejos esenciales y prácticos sobre cómo dar tus primeros pasos profesionales. Se analizan las competencias necesarias para triunfar en la industria de la moda, así como las mejores prácticas de una moda sostenible. El Módulo 1 está repleto de información sobre marketing y comunicación de una marca: también se ofrecen vídeos, artículos y actividades para adentrarse por completo en la fascinante industria del mundo de la moda. También dispone de un test de autoevaluación para poner a prueba sus conocimientos."
+    },
+    {
+        "title": "Módulo 2 - El camino hacia la transición ecológica y digital",
+        "to": "es/module2.pdf",
+        "image": "es/module2.jpg",
+        "description": "El <strong>Módulo 2</strong> reforzará tus conocimientos sobre regulación, innovación y concienciación y sobre cómo sentar las bases de una industria de la moda \"más verde\", comprometiéndote así con la sostenibilidad, la sociedad y el planeta. Compuesto por tres unidades, el Módulo 2 analiza el impacto de la industria de la moda en el medio ambiente, así como el impacto de la pandemia COVID-19. Por último, se adentra en la búsqueda de la innovación mediante la descripción de nuevos modelos de negocio, servicios y modelos de producción. Este módulo incluye vídeos y recursos en línea, y al final te espera una autoevaluación."
+    },
+    {
+        "title": "Modulo 3 - Gestión de la moda y marketing en los medios de comunicación",
+        "to": "es/module3.pdf",
+        "image": "es/module3.jpg",
+        "description": "El <strong>Módulo 3</strong> indaga en los fundamentos de la gestión de la moda y la cadena de suministro y te proporciona herramientas que te ayudarán a desarrollar una buena estrategia de marketing. Compuesto por tres unidades, el Módulo 3 te proporciona enlaces a recursos en línea y un test de autoevaluación para poner a prueba tus conocimientos."
+    },
+    {
+        "title": "Módulo 4 - Un nuevo enfoque de la percepción de la calidad textil y su evaluación mediante ensayos",
+        "to": "es/module4.pdf",
+        "image": "es/module4.jpg",
+        "description": "El <strong>módulo 4</strong> te acerca a los nuevos enfoques de la percepción de la calidad de los productos textiles y su evaluación mediante pruebas. Este módulo ofrece una sucinta introducción al concepto de desarrollo sostenible en la industria textil y de la confección, incluidos los distintos tipos de residuos textiles, los métodos de reciclado de textiles y la cadena de valor textil. También se analiza la relación entre el diseño ecológico y las normas textiles. Repleto de vídeos y recursos de aprendizaje en línea, este módulo te ayudará a profundizar los conocimientos sobre la percepción de la calidad de los textiles y los métodos de evaluación. También dispone de un test de autoevaluación."
+    }
+]

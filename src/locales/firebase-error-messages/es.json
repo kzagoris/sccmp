@@ -1,0 +1,11 @@
+{
+    "auth/email-already-in-use": "Email ya en uso",
+    "auth/invalid-email": "Email inválido",
+    "auth/operation-not-allowed": "Operación no permitida",
+    "auth/weak-password": "Contraseña demasiado débil",
+    "auth/wrong-password": "Contraseña incorrecta",
+    "auth/user-not-found": "Usuario no encontrado",
+    "auth/user-disabled": "Usuario deshabilitado",
+    "auth/invalid-credential": "Credencial inválida",
+    "auth/invalid-verification-code": "Código de verificación inválido"
+}
